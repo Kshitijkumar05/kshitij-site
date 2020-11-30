@@ -1,6 +1,6 @@
-#kshitij- portfolio
+# kshitij- portfolio
 
-Hey! Ia m kshitij kumar . I am creating my portfolio after leraning from neog.camp. It will bre completed by tommorow.
+Hey! I am kshitij kumar . I am creating my portfolio after leraning from neog.camp. It will bre completed by tommorow.
 For now, I Know:
 1. Javascript.
 2. Node.js
