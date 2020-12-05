@@ -1,8 +1,3 @@
 # kshitij- portfolio
 
-Hey! I am kshitij kumar . I am creating my portfolio after leraning from neog.camp. It will bre completed by tommorow.
-For now, I Know:
-1. Javascript.
-2. Node.js
-3. Repl.it
-4. CHALK
+Hey! I am kshitij kumar . This is my `portfolio`. You can find my projects and blogs here.
